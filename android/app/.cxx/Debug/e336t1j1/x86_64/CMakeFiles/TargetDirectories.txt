@@ -1,0 +1,2 @@
+C:/Feup/MEIC/1ano/2semestre/CM/WeatherApp/android/app/.cxx/Debug/e336t1j1/x86_64/CMakeFiles/edit_cache.dir
+C:/Feup/MEIC/1ano/2semestre/CM/WeatherApp/android/app/.cxx/Debug/e336t1j1/x86_64/CMakeFiles/rebuild_cache.dir
