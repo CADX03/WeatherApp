@@ -87,17 +87,6 @@ flutter build apk --release
 	- Use a `.env` file and `flutter_dotenv` (and make sure `.env` is in `.gitignore`)
 	- Load keys from platform-specific secure storage or CI secrets
 
-Example (quick change):
-
-```dart
-// lib/services/weather_service.dart
-static const String _apiKey = 'YOUR_API_KEY_HERE';
-```
-
-> ⚠️ Do not commit secret API keys to public repositories.
-
----
-
 ## Assets
 
 - `assets/cities.csv` — used for the Autocomplete list when searching for a city
